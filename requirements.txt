@@ -1,0 +1,7 @@
+vtracer
+pebble
+pillow
+numpy
+scipy
+# optional, only for AI background removal:
+# rembg[gpu]
